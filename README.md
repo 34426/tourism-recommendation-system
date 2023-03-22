@@ -6,7 +6,7 @@
 
 ## 一、介绍
 
-### springboot+vue前后端分离的旅游信息推荐系统
+### springboot+mybatis+vue前后端分离的旅游信息推荐系统
 
 ![img_3.png](imgs/img_3.png)
 
