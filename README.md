@@ -1,27 +1,33 @@
 # 旅游信息推荐系统
 
-
-### 有问题，或者需要协助调试运行项目的, 可以加QQ：2529519551，或者微信 ：xzxj0206 注明项目，“git+项目名称” ，如：“git学生宿舍管理系统”
-
-### 更多项目： https://github.com/34426?tab=repositories
-
-
+### 9.9￥ 获取完整源码+sql，附赠9000字论文参考，需要加Q：3808981644 备用Q：3577148218
+### 有问题，或者需要协助调试运行项目的也可联系
 
 ## 一、介绍
 
 ### springboot+mybatis+vue前后端分离的旅游信息推荐系统
 
-![img_3.png](imgs/img_3.png)
+开发语言：java
 
-## 二、系统运行界面
+运行环境:idea或eclipse vscode 数据库:mysql
+
+功能简介：系统分为前台跟后台两个项目
+
+用户：  浏览旅游新闻、景区信息、美食信息、旅游线路、在线留言、旅游线路、订单信息
+
+管理员： 账号管理、地区管理、景点信息管理、地方美食管理、旅游线路管理、订单信息管理、新闻管理、系统管理
+
+![img.png](imgs/img.png)
+
+## 二、游客和用户界面部分功能页面展示
 
 ![img_1.png](imgs/img_1.png)
 
-![img_2.png](imgs/img_2.png)
-
-## 三、游客和用户界面部分功能页面展示
+![img_3.png](imgs/img_3.png)
 
 ![img_4.png](imgs/img_4.png)
+
+## 三、管理员界面部分功能页面展示
 
 ![img_5.png](imgs/img_5.png)
 
@@ -29,22 +35,10 @@
 
 ![img_7.png](imgs/img_7.png)
 
-![img_8.png](imgs/img_8.png)
+## 四、9000字文档参考
 
-![img_9.png](imgs/img_9.png)
+![img.png](img.png)
 
-![img_10.png](imgs/img_10.png)
-
-![img_11.png](imgs/img_11.png)
-
-## 四、管理员界面部分功能页面展示
-
-![img_12.png](imgs/img_12.png)
-
-![img_13.png](imgs/img_13.png)
-
-![img_14.png](imgs/img_14.png)
-
-![img_15.png](imgs/img_15.png)
-
-![img_16.png](imgs/img_16.png)
+### 9.9￥ 获取完整源码+sql，附赠9000字论文参考，需要加Q：3808981644 备用Q：3577148218
+### 有问题，或者需要协助调试运行项目的也可联系
+![img_1.png](img_1.png)
